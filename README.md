@@ -10,4 +10,4 @@ A Python-based automation script that cleans up messy directories by sorting fil
 ## 🛠️ Setup
 1. Clone the repo:
    ```bash
-   git clone [https://github.com/Rajat22UEE/file-organizer-python.git](https://github.com/Rajat22UEE/file-organizer-python.git)
+   git clone https://github.com/Rajat22UEE/file-organizer-python.git
